@@ -3,7 +3,7 @@ variable "PUSH" {
 }
 
 variable "REPOSITORY" {
-  default = "runpod"
+  default = "weniai"
 }
 
 variable "BASE_IMAGE_VERSION" {

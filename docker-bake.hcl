@@ -3,7 +3,7 @@ variable "PUSH" {
 }
 
 variable "REPOSITORY" {
-  default = "weniai"
+  default = "beamaia"
 }
 
 variable "BASE_IMAGE_VERSION" {

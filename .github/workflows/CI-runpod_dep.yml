@@ -50,7 +50,7 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
 
       - name: Build
-        uses: docker/bake-action@v3
+        uses: docker/bake-action@v5
         with:
           targets: base-1210
 

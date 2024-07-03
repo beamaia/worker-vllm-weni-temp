@@ -1,4 +1,4 @@
-name: CI | Update runpod package version
+name: Push temp image
 
 on:
   push:

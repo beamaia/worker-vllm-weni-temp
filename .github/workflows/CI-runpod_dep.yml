@@ -53,6 +53,8 @@ jobs:
         uses: docker/bake-action@v5
         with:
           targets: base-1210
+          file: ./docker-bake.hcl
+
 
       
           
